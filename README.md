@@ -1,4 +1,4 @@
-# Salone - Free Bootstrap 5 Business Template 
+# Electro - Free Bootstrap 5 eCommerce Template 
 
 - [Demo](https://themewagon.github.io/Electro-Bootstrap/)
 
